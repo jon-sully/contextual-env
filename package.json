@@ -1,6 +1,6 @@
 {
   "name": "contextual-env",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A micro-utility to get an ENV var based on the value of the CONTEXT environment variable",
   "main": "index.js",
   "repository": "https://github.com/jon-sully/contextual-env",
